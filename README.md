@@ -7,7 +7,7 @@
 | 1일차 | 맛보기 | 딥러닝 기본 용어 설명 | ✔️ | 2022.06.20 |
 |      |         | Historical Review | ✔️ | 2022.06.20 |
 |      | AI Math | 벡터가 뭐예요? | ✔️ | 2022.06.20 |
-| 2일차 | AI Math | 행렬이 뭐예요? |  |
+| 2일차 | AI Math | 행렬이 뭐예요? | ✔️ | 2022.06.21 |
 | 3일차 | Python | Python Object Oriented Programming |  |
 | 4일차 | Python | Module and Project |  |
 |      | AI Math | 경사하강법 - 순한맛 |  |
