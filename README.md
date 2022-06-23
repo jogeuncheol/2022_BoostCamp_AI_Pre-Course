@@ -8,7 +8,7 @@
 |      |         | Historical Review | ✔️ | 2022.06.20 |
 |      | AI Math | 벡터가 뭐예요? | ✔️ | 2022.06.20 |
 | 2일차 | AI Math | 행렬이 뭐예요? | ✔️ | 2022.06.21 |
-| 3일차 | Python | Python Object Oriented Programming |  |
+| 3일차 | Python | Python Object Oriented Programming | ✔️ | 2022.06.23 |
 | 4일차 | Python | Module and Project |  |
 |      | AI Math | 경사하강법 - 순한맛 |  |
 | 5일차 | Python | File/Exception/Log Handling |  |
